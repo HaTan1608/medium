@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@sanity/block-content-to-react": "^3.0.0",
+    "@sanity/client": "^2.23.2",
     "next": "latest",
     "next-sanity": "^0.4.0",
     "react": "^17.0.2",
